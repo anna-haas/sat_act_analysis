@@ -1,0 +1,52 @@
+State,ACT Required,SAT Required
+Alabama,YES,NO
+Alaska,NO,NO
+Arizona,NO,NO
+Arkansas,YES,NO
+California,NO,NO
+Colorado,NO,YES
+Connecticut,NO,YES
+Delaware,NO,YES
+District of Columbia,NO,NO
+Florida,NO,NO
+Georgia,NO,NO
+Hawaii,NO,NO
+Idaho,NO,YES
+Illinois,NO,YES
+Indiana,NO,NO
+Iowa,NO,NO
+Kansas,NO,NO
+Kentucky,YES,NO
+Louisiana,YES,NO
+Maine,NO,YES
+Maryland,NO,NO
+Massachusetts,NO,NO
+Michigan,NO,YES
+Minnesota,NO,NO
+Mississippi,YES,NO
+Missouri,NO,NO
+Montana,YES,NO
+Nebraska,YES,NO
+Nevada,YES,NO
+New Hampshire,NO,YES
+New Jersey,NO,NO
+New Mexico,NO,NO
+New York,NO,NO
+North Carolina,YES,NO
+North Dakota,YES,NO
+Ohio,EITHER,EITHER
+Oklahoma,EITHER,EITHER
+Oregon,NO,NO
+Pennsylvania,NO,NO
+Rhode Island,NO,YES
+South Carolina,NO,NO
+South Dakota,NO,NO
+Tennessee,EITHER,EITHER
+Texas,NO,NO
+Utah,YES,NO
+Vermont,NO,NO
+Virginia,NO,NO
+Washington,NO,NO
+West Virginia,NO,NO
+Wisconsin,YES,NO
+Wyoming,YES,NO
